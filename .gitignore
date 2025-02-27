@@ -26,3 +26,5 @@ vendor/
 # Compiled binary for packages and commands
 /bin/
 Notes.txt
+
+.idea
